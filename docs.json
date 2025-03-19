@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "FloqDocs",
   "colors": {
-    "primary": "#040059",
+    "primary": "#ECE7FF",
     "light": "#F4F0FF",
-    "dark": "#15803D"
+    "dark": "#040059"
   },
   "favicon": "/favicon.svg",
   "navigation": {
