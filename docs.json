@@ -63,12 +63,17 @@
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "Change Log",
           "href": "https://mintlify.com/community",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
+          "anchor": "Community",
+          "href": "https://mintlify.com/blog",
+          "icon": "newspaper"
+        }
+        {
+          "anchor": "Request a feature",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
         }
