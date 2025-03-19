@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "FloqDocs",
   "colors": {
-    "primary": "#ECE7FF",
+    "primary": "#1A0059",
     "light": "#F4F0FF",
-    "dark": "#040059"
+    "dark": "#1A0059"
   },
   "favicon": "/favicon.svg",
   "navigation": {
