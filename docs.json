@@ -71,7 +71,7 @@
           "anchor": "Community",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
-        }
+        },
         {
           "anchor": "Request a feature",
           "href": "https://mintlify.com/blog",
@@ -103,5 +103,6 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
-  }
+  },
+  "style": ["./custom.css"]
 }
