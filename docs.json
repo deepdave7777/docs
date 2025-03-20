@@ -3,10 +3,6 @@
   "theme": "mint",
   "name": "FloqDocs",
   "colors": {
-      "background": {
-      "light": "#FFFFFF", 
-      "dark": "#000000" 
-    },
     "primary": "#1A0059",
     "light": "#F4F0FF",
     "dark": "#1A0059"
