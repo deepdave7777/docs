@@ -4,8 +4,8 @@
   "name": "FloqDocs",
   "colors": {
       "background": {
-      "light": "#FFFFFF",  // Hex color code for light mode
-      "dark": "#000000"    // Hex color code for dark mode
+      "light": "#FFFFFF", 
+      "dark": "#000000" 
     },
     "primary": "#1A0059",
     "light": "#F4F0FF",
