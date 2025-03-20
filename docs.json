@@ -3,6 +3,10 @@
   "theme": "mint",
   "name": "FloqDocs",
   "colors": {
+      "background": {
+      "light": "#FFFFFF",  // Hex color code for light mode
+      "dark": "#000000"    // Hex color code for dark mode
+    },
     "primary": "#1A0059",
     "light": "#F4F0FF",
     "dark": "#1A0059"
